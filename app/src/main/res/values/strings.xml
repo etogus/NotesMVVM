@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="add_new_note">Добавить</string>
+    <string name="name">Название</string>
+    <string name="company">Компания</string>
+    <string name="screen">Диагональ экрана</string>
+    <string name="ram">ОЗУ</string>
+    <string name="price">Цена</string>
+</resources>
